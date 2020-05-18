@@ -7,7 +7,7 @@
 
 
 </template>
-
+g
 <script>
     export default {
         name: "TabbarItem",
